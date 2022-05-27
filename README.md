@@ -88,6 +88,8 @@ To store cadastral data in the most secure and decentralized way, we use IPFS te
 }
 ```
 
+![Cadastre Map Token ID 2](https://github.com/truhuis/project-story/blob/main/cadastre-map-token-id-2.png)
+
 - **the USA**
 
 ```json
@@ -117,6 +119,8 @@ To store cadastral data in the most secure and decentralized way, we use IPFS te
     ]
 }
 ```
+
+![Cadastre Map Token ID 4](https://github.com/truhuis/project-story/blob/main/cadastre-map-token-id-4.png)
 
 
 ## Challenges we ran into
