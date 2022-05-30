@@ -9,7 +9,7 @@ We also understand that the state would like to be actively involved in the cryp
 ## What is Truhuis
 **Truhuis** is primarily a word that did not exist until today. This word is formed from the combination of the first three letters of the English word _“true”_ and the Dutch word _“huis”_ - meaning “house” in English and is pronounced almost the same. 
 
-> Truhuis aims to improve Real Estate buying and selling methods using the public Ethereum Blockchain (ERC-721) and smart contracts.
+> Truhuis aims to improve Real Estate buying, selling, and ownership methods using the public Ethereum Blockchain (ERC-721) and smart contracts.
 
 
 ## What Truhuis does
